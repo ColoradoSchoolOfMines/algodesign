@@ -212,7 +212,7 @@ abort with a 404 error.
 
 \ctrltitle{GET /competition/\emph{id}/all\_inputs.zip}
 \ctrlauth{AlgoBOWL Student or AlgoBOWL Admin}
-\ctrldesc{Generate a ZIP archive of all the inputs for the user}
+\ctrldesc{Generate a ZIP archive of all the inputs}
 
 \ctrltitle{POST /competition/\emph{id}/upload\_output}
 \ctrlauth{AlgoBOWL Student}
@@ -221,7 +221,7 @@ abort with a 404 error.
 Takes a parameter of the input Group ID the output corresponds to. This should:
 
 \begin{enumerate}
-    \item Converts the output to UNIX file format (if in MS-DOS or Mac OS format)
+    \item Convert the output to UNIX file format (if in MS-DOS or Mac OS format)
     \item Strip the first line off the output and convert it to a numerical
         type. This is the \texttt{score} attribute. If this process fails, it
         should raise an error to the user.
