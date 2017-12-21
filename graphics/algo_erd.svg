@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29.660091cm"
+   height="15.954266cm"
+   viewBox="33.655 19.55 49.27708 27.356001"
+   version="1.1"
+   id="svg234"
+   sodipodi:docname="algo_erd.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata240">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs238">
+    <linearGradient
+       id="linearGradient1051"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000031;stop-opacity:1;"
+         offset="0"
+         id="stop1049" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1395"
+     id="namedview236"
+     showgrid="false"
+     inkscape:zoom="6.9595363"
+     inkscape:cx="113.69184"
+     inkscape:cy="468.17571"
+     inkscape:window-x="1200"
+     inkscape:window-y="142"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg234" />
+  <rect
+     x="34.269703"
+     y="30.659"
+     width="2.9400001"
+     height="1.8"
+     id="rect2"
+     style="fill:#ffffff;stroke:none;stroke-width:0" />
+  <rect
+     x="34.269703"
+     y="30.659"
+     width="2.9400001"
+     height="1.8"
+     id="rect4"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="35.739704"
+     y="31.759001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text6"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">User</text>
+  <polygon
+     points="46.276,31.558 43.929,32.967 41.581,31.558 43.929,30.15 "
+     id="polygon8"
+     style="fill:#ffffff;stroke:none;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polygon
+     points="46.276,31.558 43.929,32.967 41.581,31.558 43.929,30.15 "
+     id="polygon10"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <text
+     x="39.897701"
+     y="31.257999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text12"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:end;fill:#000000">N</text>
+  <text
+     x="45.192703"
+     y="31.257999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text14"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:start;fill:#000000">M</text>
+  <text
+     x="42.545704"
+     y="31.759001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text16"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">Part of</text>
+  <rect
+     x="64.299698"
+     y="30.659"
+     width="3.325"
+     height="1.8"
+     id="rect18"
+     style="fill:#ffffff;stroke:none;stroke-width:0" />
+  <rect
+     x="64.299698"
+     y="30.659"
+     width="3.325"
+     height="1.8"
+     id="rect20"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="65.9617"
+     y="31.759001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text22"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">Input</text>
+  <ellipse
+     cx="35.739704"
+     cy="25.987"
+     rx="2.54"
+     ry="0.89999998"
+     id="ellipse24"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="35.739704"
+     cy="25.987"
+     rx="2.54"
+     ry="0.89999998"
+     id="ellipse26"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="35.739704"
+     y="26.188"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text28"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">group_id</text>
+  <ellipse
+     cx="53.651703"
+     cy="26.575001"
+     rx="1.385"
+     ry="0.89999998"
+     id="ellipse30"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="53.651703"
+     cy="26.575001"
+     rx="1.385"
+     ry="0.89999998"
+     id="ellipse32"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="53.651703"
+     y="26.775"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text34"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">id</text>
+  <line
+     x1="53.266705"
+     y1="26.975"
+     x2="54.036701"
+     y2="26.975"
+     id="line36"
+     style="stroke:#000000;stroke-width:0.1" />
+  <ellipse
+     cx="57.699703"
+     cy="26.513"
+     rx="1.77"
+     ry="0.89999998"
+     id="ellipse38"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="57.699703"
+     cy="26.513"
+     rx="1.77"
+     ry="0.89999998"
+     id="ellipse40"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="57.699703"
+     y="26.712999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text42"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">name</text>
+  <ellipse
+     cx="62.531704"
+     cy="26.450001"
+     rx="2.54"
+     ry="0.89999998"
+     id="ellipse44"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="62.531704"
+     cy="26.450001"
+     rx="2.54"
+     ry="0.89999998"
+     id="ellipse46"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="62.531704"
+     y="26.65"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text48"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">group_id</text>
+  <line
+     x1="60.991703"
+     y1="26.85"
+     x2="64.071701"
+     y2="26.85"
+     id="line50"
+     style="stroke:#000000;stroke-width:0.1" />
+  <ellipse
+     cx="69.151703"
+     cy="26.475"
+     rx="3.3099999"
+     ry="0.89999998"
+     id="ellipse52"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="69.151703"
+     cy="26.475"
+     rx="3.3099999"
+     ry="0.89999998"
+     id="ellipse54"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="69.151703"
+     y="26.674999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text56"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">data (depot)</text>
+  <ellipse
+     cx="60.247704"
+     cy="45.956001"
+     rx="1.962"
+     ry="0.89999998"
+     id="ellipse58"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="60.247704"
+     cy="45.956001"
+     rx="1.962"
+     ry="0.89999998"
+     id="ellipse60"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="60.247704"
+     y="46.155998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text62"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">score</text>
+  <ellipse
+     cx="65.945702"
+     cy="45.956001"
+     rx="3.3099999"
+     ry="0.89999998"
+     id="ellipse64"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="65.945702"
+     cy="45.956001"
+     rx="3.3099999"
+     ry="0.89999998"
+     id="ellipse66"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="65.945702"
+     y="46.155998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text68"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">data (depot)</text>
+  <ellipse
+     cx="71.766701"
+     cy="40.537998"
+     rx="1.385"
+     ry="0.89999998"
+     id="ellipse70"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="71.766701"
+     cy="40.537998"
+     rx="1.385"
+     ry="0.89999998"
+     id="ellipse72"
+     style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:0.3, 0.3" />
+  <text
+     x="71.766701"
+     y="40.737999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text74"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">id</text>
+  <line
+     x1="71.381699"
+     y1="40.938"
+     x2="72.151703"
+     y2="40.938"
+     id="line76"
+     style="stroke:#000000;stroke-width:0.1" />
+  <ellipse
+     cx="79.411697"
+     cy="39.325001"
+     rx="2.54"
+     ry="0.89999998"
+     id="ellipse78"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="79.411697"
+     cy="39.325001"
+     rx="2.54"
+     ry="0.89999998"
+     id="ellipse80"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="79.411697"
+     y="39.525002"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text82"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">group_id</text>
+  <ellipse
+     cx="79.411697"
+     cy="41.75"
+     rx="3.6949999"
+     ry="0.89999998"
+     id="ellipse84"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="79.411697"
+     cy="41.75"
+     rx="3.6949999"
+     ry="0.89999998"
+     id="ellipse86"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="79.411697"
+     y="41.950001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text88"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">input_group_id</text>
+  <polyline
+     points="74.535,40.538 76.395,40.538 76.395,39.325 78.255,39.325 "
+     id="polyline90"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="74.535,40.538 76.394,40.538 76.394,41.750 77.100,41.750 "
+     id="polyline92"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <rect
+     x="64.106697"
+     y="39.638"
+     width="3.71"
+     height="1.8"
+     id="rect94"
+     style="fill:#ffffff;stroke:none;stroke-width:0" />
+  <rect
+     x="64.106697"
+     y="39.638"
+     width="3.71"
+     height="1.8"
+     id="rect96"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="65.9617"
+     y="40.737999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text98"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">Output</text>
+  <polyline
+     points="69.250,40.538 69.300,40.538 71.715,40.538 71.765,40.538 "
+     id="polyline100"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="67.341,41.472 67.341,43.239 61.631,43.239 61.631,45.006 "
+     id="polyline102"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="67.335,41.416 67.335,43.225 67.329,43.225 67.329,45.056 "
+     id="polyline104"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="61.277,40.537 63.384,40.537 63.384,40.538 65.490,40.538 "
+     id="polyline106"
+     transform="matrix(1.0111559,0,0,1,-2.1139014,-3.8072467e-7)"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <line
+     x1="65.9617"
+     y1="38.034"
+     x2="65.9617"
+     y2="39.587002"
+     id="line108"
+     style="stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="67.470,32.459 67.470,35.942 67.345,35.942 "
+     id="polyline110"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="67.220,32.459 67.220,35.692 67.345,35.692 "
+     id="polyline112"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="60.652,31.558 60.702,31.558 65.582,31.558 65.632,31.558 "
+     id="polyline114"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polygon
+     points="71.04,35.817 67.345,38.034 63.65,35.817 67.345,33.6 "
+     id="polygon116"
+     style="fill:#ffffff;stroke:none;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polygon
+     points="71.04,35.817 67.345,38.034 63.65,35.817 67.345,33.6 "
+     id="polygon118"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <text
+     x="66.161697"
+     y="33.299999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text120"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:start;fill:#000000">1</text>
+  <text
+     x="66.161697"
+     y="39.133999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text122"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:start;fill:#000000">N</text>
+  <text
+     x="65.9617"
+     y="36.016998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text124"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">Corresponds to</text>
+  <polyline
+     points="50.058,31.683 50.079,31.683 50.079,40.425 58.565,40.425 58.565,40.537 "
+     id="polyline126"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="50.058,31.433 49.829,31.433 49.829,40.675 58.815,40.675 58.815,40.537 "
+     id="polyline128"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <rect
+     x="47.011703"
+     y="30.659"
+     width="3.325"
+     height="1.8"
+     id="rect130"
+     style="fill:#ffffff;stroke:none;stroke-width:0" />
+  <rect
+     x="47.011703"
+     y="30.659"
+     width="3.325"
+     height="1.8"
+     id="rect132"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="48.674702"
+     y="31.759001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text134"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">Group</text>
+  <polygon
+     points="61.23,40.537 58.69,42.061 56.15,40.537 58.69,39.013 "
+     id="polygon136"
+     style="fill:#ffffff;stroke:none;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polygon
+     points="61.23,40.537 58.69,42.061 56.15,40.537 58.69,39.013 "
+     id="polygon138"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <text
+     x="54.466702"
+     y="40.237"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text140"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:end;fill:#000000">1</text>
+  <text
+     x="60.146702"
+     y="40.237"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text142"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:start;fill:#000000">N</text>
+  <text
+     x="57.306702"
+     y="40.737"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text144"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">Has many</text>
+  <polyline
+     points="51.770,31.433 51.693,31.433 56.383,31.433 56.678,31.433 "
+     id="polyline146"
+     transform="matrix(1.1404255,0,0,1,-8.6423143,-3.8072467e-7)"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="51.770,31.683 51.943,31.683 56.633,31.683 56.678,31.683 "
+     id="polyline148"
+     transform="matrix(1.156636,0,0,1,-9.5610912,-3.8072467e-7)"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <polygon
+     points="60.652,31.558 58.69,32.736 56.727,31.558 58.69,30.381 "
+     id="polygon150"
+     style="fill:#ffffff;stroke:none;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polygon
+     points="60.652,31.558 58.69,32.736 56.727,31.558 58.69,30.381 "
+     id="polygon152"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <text
+     x="55.044704"
+     y="31.257999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text154"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:end;fill:#000000">1</text>
+  <text
+     x="59.568703"
+     y="31.257999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text156"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:start;fill:#000000">1</text>
+  <text
+     x="57.306702"
+     y="31.759001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text158"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">Has a</text>
+  <polyline
+     points="46.276,31.558 46.326,31.558 48.295,31.558 48.345,31.558 "
+     id="polyline160"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="38.593,31.558 38.643,31.558 41.482,31.558 41.532,31.558 "
+     id="polyline162"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="37.123,26.938 37.123,26.988 37.123,30.558 37.123,30.608 "
+     id="polyline164"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="55.035,27.475 55.035,29.042 50.058,29.042 50.058,30.608 "
+     id="polyline166"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="59.083,27.463 59.083,29.036 50.058,29.036 50.058,30.608 "
+     id="polyline168"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="63.915,27.400 63.915,29.029 67.345,29.029 67.345,30.659 "
+     id="polyline170"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="70.535,27.425 70.535,29.017 67.345,29.017 67.345,30.608 "
+     id="polyline172"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <ellipse
+     cx="73.020699"
+     cy="45.956001"
+     rx="3.3099999"
+     ry="0.89999998"
+     id="ellipse174"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="73.020699"
+     cy="45.956001"
+     rx="3.3099999"
+     ry="0.89999998"
+     id="ellipse176"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="73.020699"
+     y="46.155998"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text178"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">verification</text>
+  <polyline
+     points="74.404,45.056 74.404,43.247 67.345,43.247 67.345,41.438 "
+     id="polyline180"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="46.708,32.319 46.864,31.782 46.341,31.980 "
+     id="polyline184"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polygon
+     points="51.635,26.297 50.058,27.243 48.48,26.297 50.058,25.35 "
+     id="polygon186"
+     style="fill:#ffffff;stroke:none;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polygon
+     points="51.635,26.297 50.058,27.243 48.48,26.297 50.058,25.35 "
+     id="polygon188"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <text
+     x="48.874702"
+     y="25.049999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text190"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:start;fill:#000000">1</text>
+  <text
+     x="48.874702"
+     y="28.343"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text192"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:start;fill:#000000">N</text>
+  <text
+     x="48.674702"
+     y="26.497"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text194"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">Has</text>
+  <rect
+     x="45.856705"
+     y="19.6"
+     width="5.6350002"
+     height="1.8"
+     id="rect196"
+     style="fill:#ffffff;stroke:none;stroke-width:0" />
+  <rect
+     x="45.856705"
+     y="19.6"
+     width="5.6350002"
+     height="1.8"
+     id="rect198"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="48.674702"
+     y="20.700001"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text200"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">Competition</text>
+  <polyline
+     points="50.058,25.350 50.058,25.300 50.058,21.500 50.058,21.450 "
+     id="polyline202"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="50.183,27.243 50.183,27.543 50.183,30.558 50.183,30.608 "
+     id="polyline204"
+     transform="matrix(1,0,0,1.0193719,-1.3832985,-0.59293642)"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <polyline
+     points="49.933,27.243 49.933,27.293 49.933,30.308 49.933,30.608 "
+     id="polyline206"
+     transform="matrix(1,0,0,1.0232463,-1.3832985,-0.71152363)"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <polygon
+     points="39.855,37.64 37.123,39.279 34.39,37.64 37.123,36 "
+     id="polygon208"
+     style="fill:#ffffff;stroke:none;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polygon
+     points="39.855,37.64 37.123,39.279 34.39,37.64 37.123,36 "
+     id="polygon210"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <text
+     x="32.706703"
+     y="37.34"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text212"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:end;fill:#000000">M</text>
+  <text
+     x="38.771702"
+     y="37.34"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text214"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:start;fill:#000000">N</text>
+  <text
+     x="35.739704"
+     y="37.84"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text216"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">Evaluates</text>
+  <polyline
+     points="35.653,31.558 34.390,31.558 34.390,37.640 "
+     id="polyline218"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <polyline
+     points="39.855,37.640 39.855,31.558 38.593,31.558 "
+     id="polyline220"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+  <rect
+     x="35.756702"
+     y="34.455002"
+     width="11.11"
+     height="0.74800003"
+     id="rect222"
+     style="fill:#ffffff;stroke:none;stroke-width:0" />
+  <rect
+     style="fill:#fffffa;fill-opacity:1;stroke:none;stroke-width:0.09989771;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1055"
+     width="15.566546"
+     height="1.4341038"
+     x="35.114704"
+     y="34.058285" />
+  <line
+     x1="43.106705"
+     y1="34.349998"
+     x2="45.404701"
+     y2="31.864"
+     id="line182"
+     style="stroke:#000000;stroke-width:0.1" />
+  <rect
+     style="fill:#fffffa;fill-opacity:1;stroke:#000031;stroke-width:0.09989772;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1047"
+     width="14.810382"
+     height="1.1994324"
+     x="35.427601"
+     y="34.175621" />
+  <text
+     x="36.852947"
+     y="35.049999"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text224"
+     style="font-style:normal;font-weight:400;font-size:0.80000001px;font-family:sans;text-anchor:start;fill:#000000">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, '"
+       id="tspan1057">in case a user fails the course lol...</tspan>
+  </text>
+  <ellipse
+     cx="35.739704"
+     cy="42.075001"
+     rx="2.925"
+     ry="0.89999998"
+     id="ellipse226"
+     style="fill:#ffffff;stroke:none" />
+  <ellipse
+     cx="35.739704"
+     cy="42.075001"
+     rx="2.925"
+     ry="0.89999998"
+     id="ellipse228"
+     style="fill:none;stroke:#000000;stroke-width:0.1" />
+  <text
+     x="35.739704"
+     y="42.275002"
+     font-size="0.80"
+     font-style="normal"
+     font-weight="400"
+     id="text230"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.80000001px;font-family:'Latin Modern Mono';-inkscape-font-specification:'Latin Modern Mono';text-anchor:middle;fill:#000000">percentage</text>
+  <polyline
+     points="37.123,39.279 37.123,39.329 37.123,41.075 37.123,41.125 "
+     id="polyline232"
+     style="fill:none;stroke:#000000;stroke-width:0.1"
+     transform="translate(-1.3832985)" />
+</svg>
